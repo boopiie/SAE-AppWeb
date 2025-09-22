@@ -1,0 +1,54 @@
+[33m31566e7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m correction charset et collate dans le fichier sql
+[33m74ca3f5[m version 4.7 gestion de la page recette_tableau par le controleur
+[33m543ab40[m version 4.6 gestion de la page categorie par le controleur
+[33m98a9852[m version 4.5 gestion de la page categorie_tableau par le controleur
+[33md3d1939[m version 4.4 gestion de la page recette par le controleur
+[33m7cf1f43[m version 4.3 gestion de la page recettes par le controleur
+[33md48c0c7[m version 4.2 ajout gestion des controleurs page index
+[33m95b5e95[m version 4.1 ajout des controlleurs enfants simplifie et controlleur factory
+[33m98dec3a[m Version 4.0 creation classe mère controller
+[33mf48cd59[m version 3.8 utilisation objet categorie sur page categorie et categorie_tableau
+[33m87f21f7[m version 3.7 ajout relation ingredient à l'objet recette
+[33m5c4c24d[m version 3.6 ajout relation catégorie à l'objet recette
+[33m4939768[m versionversion 3.5 ajout class recette et recette.dao sans les relations
+[33m491957b[m version 3.4 ajout class ingredient et ingredientDao
+[33m24397ed[m version 3.3 ajout objet bd singleton
+[33m0c9eac0[m version 3.2 ajout methode find findall à categorie.dao
+[33mb90f655[m version 3.1 creation objet DAO sans methode
+[33mb0a7460[m version 3.0 ajout modele categorie
+[33mbcaa694[m Merge branch 'main' of https://github.com/amoulin974/yabontiap_correction
+[33maf5f501[m version 2.7 ajout constantes de templates (WEBSITE_...)
+[33m8e4e844[m version 2.6 centralisation connexion et prefixe des tables
+[33mab13eae[m version 2.5 ajout include.php pour centraliser autoload et initialisation de TWIG
+[33me10077b[m version 2.4 ajout base template categories_tableau.php et categorie.php
+[33m98044a1[m version 2.3 ajout base template recettes_tableau.php
+[33m35186fa[m version 2.2 ajout base template recette.php
+[33m732f173[m version 2.1 ajout base template recettes.php
+[33me80b802[m ajout base_template sur index
+[33mc2e7fe8[m version 1.4 ajout twig recettes_tableau, categories_tableau, et categorie
+[33m0c1c63b[m version 1.3 ajout twig recette
+[33m44325b3[m version 1.2 ajout twig recettes
+[33m3526cc5[m version 1.1 ajout twig index
+[33m3c568f9[m version 0.4 ajout bootstrap recette_tableau.php, categories_tableau.php et categorie.php
+[33m17772b2[m version 0.3 ajout bootstrap page recette.php
+[33m9123d31[m version 0.2 ajout bootsrap pages recettes
+[33m2c8ea54[m version 0.1 ajout bootstrap sur index
+[33m3499745[m version 2.7 ajout constantes de templates (WEBSITE_...)
+[33m675b4dd[m version 2.6 centralisation connexion et prefixe des tables
+[33m82c2cf9[m version 2.5 ajout include.php pour centraliser autoload et initialisation de TWIG
+[33md988305[m version 2.4 ajout base template categories_tableau.php et categorie.php
+[33m6c485d7[m version 2.3 ajout base template recettes_tableau.php
+[33m61877cc[m version 2.2 ajout base template recette.php
+[33mddae58e[m version 2.1 ajout base template recettes.php
+[33m7a91148[m ajout base_template sur index
+[33m0441b7b[m version 1.4 ajout twig recettes_tableau, categories_tableau, et categorie
+[33m82ed6c7[m version 1.3 ajout twig recette
+[33m071cddd[m version 1.2 ajout twig recettes
+[33m9f0263e[m version 1.1 ajout twig index
+[33m9cd3c1d[m version 0.4 recette_tableau et recette_categorie
+[33m5657540[m version 0.3 correction page recette
+[33m7d12769[m version 0.2 pages recettes modifiées
+[33me42c2f7[m Merge branch 'main' of https://github.com/amoulin974/yabontiap_correction
+[33m0cf7e12[m version 0.1 index modifié
+[33mc6b6715[m version 0.1 index modifié
+[33mf72745a[m version 0
