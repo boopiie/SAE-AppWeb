@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<header>
+<header>   
     <nav>
         <h1><a href="index.php">Yabon v0!</a></h1>
         <ul>
